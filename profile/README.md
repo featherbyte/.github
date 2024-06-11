@@ -21,7 +21,8 @@ By sharing our work, we hope to contribute to the global developer community and
 ### 📂 Our Projects
 
 Here are some of the projects we are currently working on:
-- ...
+- FeatherByte Website
+- 3D printer app
 
 ### ℹ️ Get Involved
 
